@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#### ***Welcome to my page!***
 
-You can use the [editor on GitHub](https://github.com/lili4127/lili4127.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### _Who am I?_
+## My name is Lior Tal and I am a current senior at Columbia's School of General Studies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### _What do I study?_
+## I am majoring in Information Science with a Minor in Environmental Biology
 
-### Markdown
+### _What do I want to do with my degree?_
+## I am passionate about the gamification of learning particularly in terms of teaching others about the environment and how we can better protect it!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Picture of me](/Users/liortal/Documents/CV/wetransfer-6645ef/Lior_Tal_Summer2019_photo.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lili4127/lili4127.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
